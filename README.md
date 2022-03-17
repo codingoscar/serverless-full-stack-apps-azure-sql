@@ -11,7 +11,7 @@ This project features the following capabilities.
 - vs-code
 - azure-functions
 - azure-logic-apps
-- azure-app-service-static
+- azure-app-service-statics
 - azure-web-apps
 
 ## Architecture
